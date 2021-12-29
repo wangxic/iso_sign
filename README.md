@@ -129,16 +129,16 @@ $params = "UDID=".$UDID."&CHALLENGE=".$CHALLENGE."&DEVICE_NAME=".$DEVICE_NAME."&
 
 ```.php
 $acc_id = 1001; //
-$key_id = 'Z73F82D8'; //key
+$key_id = 'Z782D8'; //key
 $issuser = "aabd8d-2d5a-4d20-ace0-27f44b59ff1a"; // issuser
 //p8 证书文件
 $authKey = '-----BEGIN PRIVATE KEY-----   
 6v3+lCJy
 -----END PRIVATE KEY-----';
 //团队id
-$team_id = "43LANAT4X8";
+$team_id = "43LAT4X8";
 // 包名
-$identifier = "com.game733.fish2.com";
+$identifier = "com.ga.fi.com";
 ```
 
 #### 2.获取token
