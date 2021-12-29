@@ -128,9 +128,9 @@ $params = "UDID=".$UDID."&CHALLENGE=".$CHALLENGE."&DEVICE_NAME=".$DEVICE_NAME."&
 #### 1.准备 配置文件
 
 ```.php
-$acc_id = 10001; //
-$key_id = 'Z736RF82D8'; //key
-$issuser = "aabd1f8d-2d5a-4d20-ace0-27f44b59ff1a"; // issuser
+$acc_id = 1001; //
+$key_id = 'Z73F82D8'; //key
+$issuser = "aabd8d-2d5a-4d20-ace0-27f44b59ff1a"; // issuser
 //p8 证书文件
 $authKey = '-----BEGIN PRIVATE KEY-----   
 6v3+lCJy
